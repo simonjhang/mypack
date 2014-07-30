@@ -13,7 +13,7 @@ return array(
 	),
     'redis' => array(
         'mystore' => array(
-            'hostname' => '127.0.0.1',
+            'hostname' => '192.168.201.95',
             'port' => '6385',
             'timeout' => null,
             'database' => 0,
